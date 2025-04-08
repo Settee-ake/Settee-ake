@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently developing decentralized applications on Web3, full-stack.<br><br>Computer Science Graduate at Mahidol University International College.
+Now building [Ax11](https://ax11.org)<br><br> My expertise is within the Web3 space, full-stack developer.<br><br>Computer Science Graduate at [Mahidol University International College](https://muic.mahidol.ac.th/eng/).
 
 
 ## 🌐 Socials:
