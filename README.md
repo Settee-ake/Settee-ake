@@ -1,5 +1,5 @@
 # 💫 About Me:
-Now building [Ax11](https://ax11.org)<br><br> My expertise is within the Web3 space, full-stack developer.<br><br>Computer Science Graduate at [Mahidol University International College](https://muic.mahidol.ac.th/eng/).
+Now building [Ax11](https://pennysoa.com)<br><br> My expertise is within the Web3 space, full-stack developer.<br><br>Computer Science Graduate at [Mahidol University International College](https://muic.mahidol.ac.th/eng/).
 
 
 ## 🌐 Socials:
